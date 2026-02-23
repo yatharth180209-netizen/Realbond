@@ -1,0 +1,29 @@
+# React Native
+
+# Node modules
+node_modules/
+
+# Build artifacts
+android/app/build/
+android/build/
+
+# React Native packager
+.expo/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# iOS files
+ios/Pods/
+ios/build/
+
+# Android files
+*.iml
+.gradle/
+local.properties
+.DS_Store
