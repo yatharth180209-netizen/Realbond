@@ -1,0 +1,21 @@
+{
+  "name": "RealBond",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2"
+  },
+  "devDependencies": {
+    "jest": "27.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
